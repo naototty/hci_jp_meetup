@@ -1,0 +1,135 @@
+====================================================================
+
+下記サイトを参考に、GMO yoursの情報を入れさせていただきます
+https://hbstudy.connpass.com/event/75887/
+
+====================================================================
+
+
+1月23日 火曜日の夜、Hyper-Converged Infrastructure Communityのイベントとして、新年会を開催します。
+
+今回のテーマは、「((新年会 HCIを俯瞰して2018年の...))******************」です。
+主要6社の担当者に、同じ質問をすることが出来る機会です。
+
+ハイパーコンバージドインフラストラクチャー(HCI)について詳しくなりたい方はぜひお越しください。参加をお待ちしています。 
+
+日時：
+2018年1月23日(火) 19:15 - 21:15 (開場 19:00)
+
+タイムテーブル：
+18:30 開場
+19:00 会場案内、イベント説明
+19:15 イベント開始　プレゼン
+21:45 クローズ
+
+会場：
+会場	シナジーカフェ GMO yours (http://yours.gmo.jp/)
+東京都渋谷区桜丘町26番1号　セルリアンタワー11階
+
+主催：
+Japan Hyper-Converged Infrastructure Community 　
+
+定員：
+100名
+
+アジェンダ： 登壇者(敬称略)
+19:15 会場説明、イベント趣旨説明
+Japan Hyper-Converged Infrastructure Community 代表　大川敦史
+
+「********」
+株式会社アイスタイル
+廣瀬 聡
+
+「********」
+GMOインターネット株式会社
+郷古　直仁
+
+
+参加費：
+無料
+
+
+入館&受付方法：
+まず、セルリアンタワーのロビーにて入館証（セキュリティーカード）をお渡しします。その後、11Fの会場にお越しいただきます。
+
+イベント会場受付にて、connpass受付票を提示の上、名刺を1枚、受付スタッフに提出後、受付スタッフの指示に従い、会場にお入りください。
+
+入館（セルリアンタワー ロビー階）
+入館には セキュリティカードが必要 です。セルリアンタワーのロビー階にて、18時30分から19時30分ぐらいまで受付を出しますので、そこでセキュリティカードを受取り、11Fへお上がり下さい。
+
+19時30分以降にお越しの方は、#hci_jp_meetup のハッシュタグつきでツイート頂ければお迎えに伺います。B1階(セルリアンタワーのエスカレーターを登らず、その先の車寄せ入り口から入ったところにある自動ドアの中)でお待ちください。
+
+
+参加受付（11F シナジーカフェ GMO yours）:
+参加受付では、connpass の 「受付票」をご提示ください。
+
+受付票は、connpassのイベントページの「受付票を見る」ボタンから表示できます。【スマホなどの画面で提示】 するか 【印刷したものをご提示】 をお願いします。
+
+==========================================
+
+会場について:
+本イベントを開催するにあたり、GMOインターネットグループが運営するコミュニケーションスペースをご提供いただけることとなりました。会場に困っていましたので、非常にありがたい限りです。ありがとうございます！
+
+GMO Yours は「世界一のサービスを提供するために世界一の人財が集まる場」として作られ、24時間無料で利用できると評判のスペースです。
+
+良いと思われましたら是非 http://yours.gmo.jp/ で「いいね」を押して、みなさまからも感謝の意を伝えていただけますとうれしいです！
+
+==========================================
+
+注意事項:
+飲食物の持ち込みは可ですが、ごみは必ずお持ち帰りください。会場内にゴミ箱はありません。
+飲食物の持ち込みについて、食中毒等が起きてもイベント主催者、及び会場提供者は一切責任を負いません。 会場のビル内には喫煙所はございません。
+リクルーティング、その他勧誘等を目的とした参加はご遠慮ください。
+参加申込み時のアンケート回答内容により、参加申込をキャンセルさせて頂く場合がございますので、予めご了承下さい。
+イベントを無断キャンセルした場合、今後イベント参加をお断りする場合がございますので、予めご了承下さい。
+
+
+懇親会について
+イベント終了後、会場内で懇親会を開催いたします。参加希望の方は、イベント参加申し込み時に参加表明してください。
+参加費用は、2,000円(予定)。受付時にお支払いください。
+懇親会参加者は、19:45頃より、会場後方にて、飲み物(お酒含む)と軽食(ピザとおつまみ等)をご用意しますので、食べながら、プレゼンをお聞きください
+
+登壇したい方へ
+プレゼン枠やLT枠で、登壇を希望される方は、プレゼン内容と合わせて、主催者までご連絡ください。
+
+コミュニティサイト
+Japan Hyper-Converged Infrastructure Community 
+https://www.facebook.com/groups/582043771960771/ 
+
+過去の開催情報:
+Hyper-Converged Infrastructure Community Meetup #10 
+https://japanhci.connpass.com/event/67705/
+
+Hyper-Converged Infrastructure Community Meetup #9 
+https://japanhci.connpass.com/event/59226/ 
+
+Hyper-Converged Infrastructure Community Meetup #8 
+https://japanhci.connpass.com/event/56389/ 
+
+Hyper-Converged Infrastructure Community Meetup #7 
+https://japanhci.connpass.com/event/46005/ 
+
+Hyper-Converged Infrastructure Community Meetup #6 
+https://japanhci.connpass.com/event/43788/ 
+
+Hyper-Converged Infrastructure Community Meetup #5 
+http://japanhci.connpass.com/event/38803/ 
+
+Hyper-Converged Infrastructure Community Meetup #4 
+http://japanhci.connpass.com/event/36395/ 
+
+Hyper-Converged Infrastructure Community Meetup #3 
+http://japanhci.connpass.com/event/32599/ 
+
+Hyper-Converged Infrastructure Community Meetup #2 
+http://japanhci.connpass.com/event/29550/ 
+
+Hyper-Converged Infrastructure Community Meetup #0 
+http://connpass.com/event/28724/ 
+
+関連イベント
+Japan GPU-Accelerated VDI Community Meetup #7 
+https://japangpuvdi.connpass.com/event/46037/ 
+
+
+会場にて多くの皆さんとお会いできることを楽しみにしております。
